@@ -16,3 +16,7 @@ A task management application that allows users to create, complete, and organiz
 + Single Page Application (SPA) Deployment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+
+## Links
+
+✨[Stickers](https://www.flaticon.com/ru/stickers-pack/birthday-209)
