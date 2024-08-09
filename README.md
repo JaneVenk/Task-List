@@ -19,4 +19,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Links
 
-✨ [Stickers](https://www.flaticon.com/ru/stickers-pack/birthday-209)
+✨ [Stickers](https://www.flaticon.com/ru/stickers-pack/birthday-209) 
