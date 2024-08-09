@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/49fcfbed-242a-454b-a685-24b05b5b3960" width="100">Project: Task List
+# <img src="https://github.com/user-attachments/assets/49fcfbed-242a-454b-a685-24b05b5b3960">Project: Task List
 
 
 [View the Project Live](https://angular-project-9b157.web.app/)
